@@ -1,0 +1,31 @@
+[
+    {
+        "title": "GTA Vice City",
+        "id": "sticker_logo",
+        "description": "Show off your Snipcart support with a logo sticker!",
+        "price": "2.00",
+        "image" : "GTA.jpg"
+      },
+      {
+        "title": "GTA Vice City",
+        "id": "sticker_logo_pack",
+        "description": "Get a pack of 3 Snipcart logo stickers.",
+        "price": "4.00",
+        "image" : "GTA.jpg"
+      },
+      {
+        "title": "IGI2",
+        "id": "sticker_logo_pack",
+        "description": "Get a pack of 3 Snipcart logo stickers.",
+        "price": "6.00",
+        "image" : "Igi2box.jpg"
+      },
+      {
+        "title": "PUBG",
+        "id": "sticker_logo_pack",
+        "description": "Get a pack of 3 Snipcart logo stickers.",
+        "price": "3.00",
+        "image" : "subway-suffer.jpg"
+      }
+      
+]
